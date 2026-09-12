@@ -27,9 +27,6 @@
 ㅤㅤ <img src="https://files.catbox.moe/74n175.png" width="600" height="~" alt="BANNER II"><br>
 ㅤㅤ <br>
 
-
-<img src="https://files.catbox.moe/1fo39j.gif" width="~" height="40" align="center" hspace="0" alt="TEXT II"/><br>
-
 ㅤ<table border="0" align="right">
     <tr align="center"></tr>
       <th>
@@ -49,5 +46,6 @@
   </table>
 
 <p align="right">
-<img src="https://files.catbox.moe/g87htq.png" width="450" height="~" alt="KITTY">ㅤㅤ
+<img src="https://files.catbox.moe/1fo39j.gif" width="~" height="40" align="center" hspace="0" alt="TEXT II"/><br>
+<img src="https://files.catbox.moe/g87htq.png" width="400" height="~" alt="KITTY">ㅤㅤ
 </p>
