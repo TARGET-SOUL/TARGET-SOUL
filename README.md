@@ -31,17 +31,17 @@
     <tr align="center"></tr>
       <th>
         ㅤ<br>
-        $\color{#C70007}{\textsf{WORK IN PROGRESS}}$<br>
+        $\color{#C70007}{\textsf{NOMINATIONS}}$<br>
         ㅤ<br>
             <img src="https://files.catbox.moe/w3qiya.png" width="50" height="~" alt="STAGE I">
             <img src="https://files.catbox.moe/4v32il.png" width="50" height="~" alt="STAGE II">
             <img src="https://files.catbox.moe/6gfpn4.png" width="50" height="~" alt="STAGE III">
             <img src="https://files.catbox.moe/2n6ntz.png" width="50" height="~" alt="STAGE IV"><br>
         ㅤ<br>
-        $\color{#FFFFFF}{\textsf{not sure what to put here yet uhhhhhhhhhhhhhh}}$<br>
-        $\color{#FFFFFF}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
-        $\color{#FFFFFF}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
-        $\color{#FFFFFF}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
+        $\color{#FFFFFF}{\textsf{THANK YOU!}}$<br>
+        [@ponyhonors](https://github.com/ponyhonors)<br>
+        placeholder placeholder placeholder placeholder<br>
+        placeholder placeholder placeholder placeholder<br>
         <br>
       </th>
   </table>
