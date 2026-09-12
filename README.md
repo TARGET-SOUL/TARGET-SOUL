@@ -8,9 +8,9 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/ps3sp8.png" width="100" height="~" alt="KNIFE"><br>
         ㅤ<br>
-        [COLOR to my KILLER](https://github.com/VlSCARTE)<br>
-        [SWAP to my FELL](https://github.com/RUST-010)<br>
-        [INK to my ERROR](https://github.com/Phelps-Ministry)<br>
+        [the COLOR to my KILLER](https://github.com/VlSCARTE)<br>
+        [the SWAP to my FELL](https://github.com/RUST-010)<br>
+        [the INK to my ERROR](https://github.com/Phelps-Ministry)<br>
         ㅤ<br>
         $\color{#C70007}{\textsf{<3}}$<br>
         <br>
