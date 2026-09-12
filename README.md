@@ -30,8 +30,23 @@
 
 <img src="https://files.catbox.moe/1fo39j.gif" width="~" height="40" align="center" hspace="0" alt="TEXT II"/><br>
 
-<p align="right">ㅤㅤㅤ
-<img src="https://files.catbox.moe/g87htq.png" width="400" height="~" alt="KITTY">
+ㅤ<table border="0" align="right">
+    <tr align="center"></tr>
+      <th>
+        ㅤ<br>
+        $\color{#C70007}{\textsf{WORK IN PROGRESS}}$<br>
+        ㅤ<br>
+        <img src="https://files.catbox.moe/ps3sp8.png" width="100" height="~" alt="KNIFE"><br>
+        ㅤ<br>
+        placeholder<br>
+        placeholder<br>
+        placeholder<br>
+        <br>
+      </th>
+  </table>
+
+<p align="right">
+<img src="https://files.catbox.moe/g87htq.png" width="500" height="~" alt="KITTY">ㅤㅤ
 </p>
 
 
