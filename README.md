@@ -38,7 +38,7 @@
             <img src="https://files.catbox.moe/6gfpn4.png" width="50" height="~" alt="STAGE III">
             <img src="https://files.catbox.moe/2n6ntz.png" width="50" height="~" alt="STAGE IV"><br>
         ㅤ<br>
-        placeholder placeholder placeholder placeholder<br>
+        not sure what to put here yet uhhhhhhhhhhhhhh<br>
         placeholder placeholder placeholder placeholder<br>
         placeholder placeholder placeholder placeholder<br>
         <br>
@@ -46,6 +46,6 @@
   </table>
 
 <p align="right">
-<img src="https://files.catbox.moe/1fo39j.gif" width="~" height="40" align="center" hspace="0" alt="TEXT II"/><br>
+<img src="https://files.catbox.moe/1fo39j.gif" width="~" height="40" align="center" hspace="0" alt="TEXT II"/>ㅤㅤ<br>
 <img src="https://files.catbox.moe/g87htq.png" width="400" height="~" alt="KITTY">ㅤㅤ
 </p>
