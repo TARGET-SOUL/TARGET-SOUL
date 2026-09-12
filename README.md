@@ -12,12 +12,18 @@ WORK IN PROGRESS<br>
         ㅤ<br>
         $\color{#C70007}{\textsf{whispers disabled 24/7/365}}$<br>
         $\color{#C70007}{\textsf{leave a message on ata/straw}}$<br>
+        ㅤ<br>
+        $\color{#C70007}{\textsf{i'm always afk/offtab}}$<br>
+        $\color{#C70007}{\textsf{(unless you see me moving)}}$<br>
         <br>
       </th>
   </table>
   
-ㅤㅤ<img src="https://files.catbox.moe/4ce26e.png" width="300" height="~" alt="BANNER"><br>
-ㅤㅤ<img src="https://files.catbox.moe/sh8hd6.png" width="600" height="~" alt="BANNER"><br>
+ㅤㅤ <img src="https://files.catbox.moe/4ce26e.png" width="400" height="~" alt="BANNER"><br>
+ㅤㅤ <br>
+ㅤㅤ $\color{#C70007}{\textsf{TAKEN}}$<br>
+
+<img src="https://files.catbox.moe/sh8hd6.png" width="~" height="~" alt="BANNER"><br>
 
 
   ㅤㅤ<img src="https://files.catbox.moe/6vmatd.png" width="50" height="~" alt="stage 1">
