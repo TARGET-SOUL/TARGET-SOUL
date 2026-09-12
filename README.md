@@ -41,9 +41,9 @@
             <img src="https://files.catbox.moe/6gfpn4.png" width="50" height="~" alt="STAGE III">
             <img src="https://files.catbox.moe/2n6ntz.png" width="50" height="~" alt="STAGE IV"><br>
         ㅤ<br>
-        placeholder placeholder placeholder placeholder placeholder<br>
-        placeholder placeholder placeholder placeholder placeholder<br>
-        placeholder placeholder placeholder placeholder placeholder<br>
+        placeholder placeholder placeholder placeholder<br>
+        placeholder placeholder placeholder placeholder<br>
+        placeholder placeholder placeholder placeholder<br>
         <br>
       </th>
   </table>
