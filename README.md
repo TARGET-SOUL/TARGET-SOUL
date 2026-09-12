@@ -36,25 +36,18 @@
         ㅤ<br>
         $\color{#C70007}{\textsf{WORK IN PROGRESS}}$<br>
         ㅤ<br>
-        <img src="https://files.catbox.moe/ps3sp8.png" width="100" height="~" alt="KNIFE"><br>
+            <img src="https://files.catbox.moe/w3qiya.png" width="50" height="~" alt="STAGE I">
+            <img src="https://files.catbox.moe/4v32il.png" width="50" height="~" alt="STAGE II">
+            <img src="https://files.catbox.moe/6gfpn4.png" width="50" height="~" alt="STAGE III">
+            <img src="https://files.catbox.moe/2n6ntz.png" width="50" height="~" alt="STAGE IV"><br>
         ㅤ<br>
-        placeholder<br>
-        placeholder<br>
-        placeholder<br>
+        placeholder placeholder placeholder placeholder placeholder<br>
+        placeholder placeholder placeholder placeholder placeholder<br>
+        placeholder placeholder placeholder placeholder placeholder<br>
         <br>
       </th>
   </table>
 
 <p align="right">
 <img src="https://files.catbox.moe/g87htq.png" width="450" height="~" alt="KITTY">ㅤㅤ
-</p>
-
-
-
-<p align="center">
-    <img src="https://files.catbox.moe/ds3k0h.png" width="400" height="~" alt="BANNER III"><br>
-    <img src="https://files.catbox.moe/w3qiya.png" width="50" height="~" alt="STAGE I">
-    <img src="https://files.catbox.moe/4v32il.png" width="50" height="~" alt="STAGE II">
-    <img src="https://files.catbox.moe/6gfpn4.png" width="50" height="~" alt="STAGE III">
-    <img src="https://files.catbox.moe/2n6ntz.png" width="50" height="~" alt="STAGE IV">
 </p>
