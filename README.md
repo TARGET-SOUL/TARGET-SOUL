@@ -56,9 +56,7 @@
       <th>
         ㅤ<br>
         $\color{#C70007}{\textsf{ALSO ME}}$<br>
-        ㅤ<br>
             <img src="https://files.catbox.moe/rlfvg3.png" width="~" height="~" alt="DIVIDER"><br>
-        ㅤ<br>
         [@j777ckpot](https://github.com/j777ckpot)ㅤ[@NECRO-GUITAR](https://github.com/NECRO-GUITAR)ㅤ[@memories-and-dreams](https://github.com/memories-and-dreams)ㅤ[@slimeccl](https://github.com/slimeccl)ㅤ[@gee-way](https://github.com/gee-way)ㅤ[@xxXShadowl0rd420Xxx](https://github.com/xxXShadowl0rd420Xxx)ㅤ[@aheartwellending](https://github.com/aheartwellending)ㅤ[@7-TRIALS](https://github.com/7-TRIALS)ㅤ[@ZOMBIELOVEJUICE](https://github.com/ZOMBIELOVEJUICE)<br>
         ㅤ<br>
         <br>
