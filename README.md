@@ -46,7 +46,7 @@
   </table>
 
 <p align="right">
-<img src="https://files.catbox.moe/g87htq.png" width="500" height="~" alt="KITTY">ㅤㅤ
+<img src="https://files.catbox.moe/g87htq.png" width="450" height="~" alt="KITTY">ㅤㅤ
 </p>
 
 
