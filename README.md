@@ -22,7 +22,7 @@
     [<img src="https://files.catbox.moe/fhypj8.png" width="~" height="30" alt="ATABOOK">](https://sally-face.atabook.org)ㅤ
     [<img src="https://files.catbox.moe/snhxuo.png" width="~" height="30" alt="STRAWPAGE">](https://7-trials.straw.page)<br>
 ㅤㅤ <br>
-ㅤㅤㅤㅤ<img src="https://files.catbox.moe/9yf14d.gif" width="~" height="40" align="center" hspace="0" alt="LYRICS I"/><br>
+ㅤㅤㅤㅤ<img src="https://files.catbox.moe/c8a8uv.gif" width="~" height="40" align="center" hspace="0" alt="LYRICS I"/><br>
 ㅤㅤ <br>
 ㅤㅤ <img src="https://files.catbox.moe/74n175.png" width="600" height="~" alt="BANNER II"><br>
 ㅤㅤ <br>
@@ -47,7 +47,7 @@
   </table>
 
 <p align="right">
-<img src="https://files.catbox.moe/btso4a.gif" width="~" height="40" align="center" hspace="0" alt="LYRICS II"/>ㅤㅤ<br>
+<img src="https://files.catbox.moe/pwo34t.gif" width="~" height="40" align="center" hspace="0" alt="LYRICS II"/>ㅤㅤ<br>
 <img src="https://files.catbox.moe/g87htq.png" width="400" height="~" alt="KITTY">ㅤㅤ
 </p>
 
