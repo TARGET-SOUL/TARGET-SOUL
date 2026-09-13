@@ -8,9 +8,9 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/ps3sp8.png" width="100" height="~" alt="KNIFE"><br>
         ㅤ<br>
-        [the COLOR to my KILLER](https://github.com/COLORFUL-SOULS)<br>
-        [the SWAP to my FELL](https://github.com/RUST-010)<br>
-        [the INK to my ERROR](https://github.com/Phelps-Ministry)<br>
+        ㅤ[the COLOR to my KILLER](https://github.com/COLORFUL-SOULS)ㅤ<br>
+        ㅤ[the SWAP to my FELL](https://github.com/RUST-010)ㅤ<br>
+        ㅤ[the INK to my ERROR](https://github.com/Phelps-Ministry)ㅤ<br>
         ㅤ<br>
         $\color{#C70007}{\textsf{<3}}$<br>
         ㅤ<br>
@@ -48,36 +48,24 @@
 
 <p align="right">
 <img src="https://files.catbox.moe/ivs8wh.gif" width="~" height="40" align="center" hspace="0" alt="LYRICS II"/>ㅤㅤ<br>
-<img src="https://files.catbox.moe/g87htq.png" width="400" height="~" alt="KITTY">ㅤㅤ<br>
-</p>
+<img src="https://files.catbox.moe/g87htq.png" width="400" height="~" alt="KITTY">ㅤㅤ<br></p>
 
-ㅤ<table border="0" align="left">
+ㅤ<table border="0" align="center">
     <tr align="center"></tr>
       <th>
         ㅤ<br>
-        $\color{#C70007}{\textsf{FAGS n' FRIENDS}}$<br>
-        $\color{#C70007}{\textsf{<}}$ 
-        [@COLORFUL-SOULS](https://github.com/COLORFUL-SOULS)ㅤ
-        [@RUST-010](https://github.com/RUST-010)ㅤ
-        [@Phelps-Ministry](https://github.com/Phelps-Ministry) 
-        $\color{#C70007}{\textsf{3}}$<br>
+        $\color{#C70007}{\textsf{FRIENDS n' STUFF}}$<br>
         [@wilsonhiggsbury](https://github.com/wilsonhiggsbury)ㅤ
-        [@echo-onslaught](https://github.com/echo-onslaught)<br>
-        ㅤ<br>
-      </th>
-    </table>
-
-  ㅤ<table border="0" align="right">
-    <tr align="center"></tr>
-      <th>
+        [@echo-onslaught](https://github.com/echo-onslaught)ㅤ
+        $\color{#FFFFFF}{\textsf{(+ any non-githubbers)}}$<br>
         ㅤ<br>
         $\color{#C70007}{\textsf{ALSO ME}}$<br>
         [@j777ckpot](https://github.com/j777ckpot)ㅤ
         [@NECRO-GUITAR](https://github.com/NECRO-GUITAR)ㅤ
-        [@memories-and-dreams](https://github.com/memories-and-dreams)<br>
+        [@memories-and-dreams](https://github.com/memories-and-dreams)ㅤ
         [@slimeccl](https://github.com/slimeccl)ㅤ
         [@gee-way](https://github.com/gee-way)ㅤ
-        [@xxXShadowl0rd420Xxx](https://github.com/xxXShadowl0rd420Xxx)<br>
+        [@xxXShadowl0rd420Xxx](https://github.com/xxXShadowl0rd420Xxx)ㅤ
         [@aheartwellending](https://github.com/aheartwellending)ㅤ
         [@7-TRIALS](https://github.com/7-TRIALS)ㅤ
         [@ZOMBIELOVEJUICE](https://github.com/ZOMBIELOVEJUICE)<br>
