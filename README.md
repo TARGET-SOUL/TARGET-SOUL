@@ -13,9 +13,9 @@
         [the INK to my ERROR](https://github.com/Phelps-Ministry)<br>
         ㅤ<br>
         $\color{#C70007}{\textsf{<3}}$<br>
-        <br>
+        ㅤ<br>
       </th>
-  </table>
+    </table>
   
 ㅤㅤㅤ ㅤ [<img src="https://files.catbox.moe/y6iquh.png" width="~" height="30" alt="BYI & DNI">](https://pronouns.cc/@sally-face)ㅤ
     [<img src="https://files.catbox.moe/eg83q7.png" width="~" height="30" alt="CARRD">](https://necro-guitar.carrd.co)ㅤ
@@ -42,9 +42,9 @@
         [@ponyhonors](https://github.com/ponyhonors)<br>
         placeholder placeholder placeholder placeholder<br>
         placeholder placeholder placeholder placeholder<br>
-        <br>
+        ㅤ<br>
       </th>
-  </table>
+    </table>
 
 <p align="right">
 <img src="https://files.catbox.moe/ivs8wh.gif" width="~" height="40" align="center" hspace="0" alt="LYRICS II"/>ㅤㅤ<br>
@@ -65,12 +65,12 @@
         [@echo-onslaught](https://github.com/echo-onslaught)<br>
         ㅤ<br>
       </th>
-  </table>
+    </table>
 
   ㅤ<table border="0" align="right">
     <tr align="center"></tr>
       <th>
-        <br>
+        ㅤ<br>
         $\color{#C70007}{\textsf{ALSO ME}}$<br>
         [@j777ckpot](https://github.com/j777ckpot)ㅤ
         [@NECRO-GUITAR](https://github.com/NECRO-GUITAR)ㅤ
@@ -81,7 +81,6 @@
         [@aheartwellending](https://github.com/aheartwellending)ㅤ
         [@7-TRIALS](https://github.com/7-TRIALS)ㅤ
         [@ZOMBIELOVEJUICE](https://github.com/ZOMBIELOVEJUICE)<br>
-        <br>
-        <br>
+        ㅤ<br>
       </th>
-  </table>
+    </table>
