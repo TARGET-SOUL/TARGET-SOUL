@@ -50,25 +50,29 @@
 <img src="https://files.catbox.moe/ivs8wh.gif" width="~" height="40" align="center" hspace="0" alt="LYRICS II"/>ㅤㅤ<br>
 <img src="https://files.catbox.moe/g87htq.png" width="400" height="~" alt="KITTY">ㅤㅤ<br></p>
 
-ㅤ<table border="0" align="center">
+ㅤ<table border="0" align="left">
     <tr align="center"></tr>
       <th>
         ㅤ<br>
         $\color{#C70007}{\textsf{FRIENDS n' STUFF}}$<br>
         [@wilsonhiggsbury](https://github.com/wilsonhiggsbury)ㅤ
-        [@echo-onslaught](https://github.com/echo-onslaught)ㅤ
-        $\color{#FFFFFF}{\textsf{(+ any non-githubbers)}}$<br>
+        [@echo-onslaught](https://github.com/echo-onslaught)<br>
+        $\color{#FFFFFF}{\textsf{(+ non-githubbers)}}$<br>
+        ㅤ<br>
+        <img src="https://files.catbox.moe/ds3k0h.png" width="425" height="~" alt="DIVIDER"><br>
         ㅤ<br>
         $\color{#C70007}{\textsf{ALSO ME}}$<br>
-        [@j777ckpot](https://github.com/j777ckpot)ㅤ
+        ㅤ[@j777ckpot](https://github.com/j777ckpot)ㅤ
         [@NECRO-GUITAR](https://github.com/NECRO-GUITAR)ㅤ
-        [@memories-and-dreams](https://github.com/memories-and-dreams)ㅤ
+        [@memories-and-dreams](https://github.com/memories-and-dreams)ㅤ<br>
         [@slimeccl](https://github.com/slimeccl)ㅤ
         [@gee-way](https://github.com/gee-way)ㅤ
-        [@xxXShadowl0rd420Xxx](https://github.com/xxXShadowl0rd420Xxx)ㅤ
+        [@xxXShadowl0rd420Xxx](https://github.com/xxXShadowl0rd420Xxx)<br>
         [@aheartwellending](https://github.com/aheartwellending)ㅤ
         [@7-TRIALS](https://github.com/7-TRIALS)ㅤ
         [@ZOMBIELOVEJUICE](https://github.com/ZOMBIELOVEJUICE)<br>
         ㅤ<br>
       </th>
     </table>
+<p align="right">
+<img src="https://files.catbox.moe/3nrssk.png" width="~" height="425" alt="THE PAWN"></p>
