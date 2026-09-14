@@ -76,4 +76,4 @@
       </th>
     </table>
 <p align="right">
-<img src="https://files.catbox.moe/voqt0c.png" width="~" height="375" alt="THE PAWN"></p>
+<img src="https://files.catbox.moe/voqt0c.png" width="~" height="370" alt="THE PAWN"></p>
