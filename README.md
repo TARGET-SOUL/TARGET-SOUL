@@ -59,7 +59,7 @@
         [@echo-onslaught](https://github.com/echo-onslaught)<br>
         $\color{#FFFFFF}{\textsf{(+ non-githubbers)}}$<br>
         ㅤ<br>
-        <img src="https://files.catbox.moe/ds3k0h.png" width="400" height="~" alt="DIVIDER"><br>
+        <img src="https://files.catbox.moe/ds3k0h.png" width="350" height="~" alt="DIVIDER"><br>
         ㅤ<br>
         $\color{#C70007}{\textsf{ALSO ME}}$<br>
         ㅤ[@j777ckpot](https://github.com/j777ckpot)ㅤ
@@ -75,4 +75,4 @@
       </th>
     </table>
 <p align="right">
-<img src="https://files.catbox.moe/3nrssk.png" width="~" height="400" alt="THE PAWN"></p>
+<img src="https://files.catbox.moe/3nrssk.png" width="~" height="300" alt="THE PAWN"></p>
