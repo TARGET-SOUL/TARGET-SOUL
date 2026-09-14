@@ -54,24 +54,28 @@
     <tr align="center"></tr>
       <th>
         ㅤ<br>
-        $\color{#C70007}{\textsf{FRIENDS n' STUFF}}$<br>
+        <p align=right>
+        $\color{#C70007}{\textsf{FRIENDS n' STUFFㅤ}}$<br>
         [@wilsonhiggsbury](https://github.com/wilsonhiggsbury)ㅤ
-        [@echo-onslaught](https://github.com/echo-onslaught)<br>
-        $\color{#FFFFFF}{\textsf{(+ non-githubbers)}}$<br>
-        $\color{#FFFFFF}{\textsf{let me know if you want to be mentioned here}}$<br>
+        [@echo-onslaught](https://github.com/echo-onslaught)ㅤ<br>
+        $\color{#FFFFFF}{\textsf{(+ non-githubbers)}}$ㅤ<br>
+        $\color{#FFFFFF}{\textsf{hmu if you wanna be mentioned/have your link edited}}$ㅤ<br>
+        </p>
         ㅤ<br>
         <img src="https://files.catbox.moe/ds3k0h.png" width="350" height="~" alt="DIVIDER"><br>
         ㅤ<br>
-        $\color{#C70007}{\textsf{ALSO ME}}$<br>
+        <p align=left>
+        $\color{#C70007}{\textsf{ㅤALSO ME}}$<br>
         ㅤ[@j777ckpot](https://github.com/j777ckpot)ㅤ
         [@NECRO-GUITAR](https://github.com/NECRO-GUITAR)ㅤ
         [@memories-and-dreams](https://github.com/memories-and-dreams)ㅤ<br>
-        [@slimeccl](https://github.com/slimeccl)ㅤ
+        ㅤ[@slimeccl](https://github.com/slimeccl)ㅤ
         [@gee-way](https://github.com/gee-way)ㅤ
         [@xxXShadowl0rd420Xxx](https://github.com/xxXShadowl0rd420Xxx)<br>
-        [@aheartwellending](https://github.com/aheartwellending)ㅤ
+        ㅤ[@aheartwellending](https://github.com/aheartwellending)ㅤ
         [@7-TRIALS](https://github.com/7-TRIALS)ㅤ
         [@ZOMBIELOVEJUICE](https://github.com/ZOMBIELOVEJUICE)<br>
+        </p>
         ㅤ<br>
       </th>
     </table>
