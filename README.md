@@ -58,6 +58,7 @@
         [@wilsonhiggsbury](https://github.com/wilsonhiggsbury)ㅤ
         [@echo-onslaught](https://github.com/echo-onslaught)<br>
         $\color{#FFFFFF}{\textsf{(+ non-githubbers)}}$<br>
+        $\color{#FFFFFF}{\textsf{let me know if you want to be mentioned here}}$<br>
         ㅤ<br>
         <img src="https://files.catbox.moe/ds3k0h.png" width="350" height="~" alt="DIVIDER"><br>
         ㅤ<br>
