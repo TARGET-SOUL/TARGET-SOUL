@@ -40,8 +40,9 @@
         ㅤ<br>
         $\color{#FFFFFF}{\textsf{THANK YOU!}}$<br>
         [@ponyhonors](https://github.com/ponyhonors)<br>
-        placeholder placeholder placeholder placeholder<br>
-        placeholder placeholder placeholder placeholder<br>
+        $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
+        $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
+        $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
         ㅤ<br>
       </th>
     </table>
@@ -57,9 +58,9 @@
         <p align=right>
         $\color{#C70007}{\textsf{FRIENDS n' STUFFㅤ}}$<br>
         [@wilsonhiggsbury](https://github.com/wilsonhiggsbury)ㅤ
-        [@echo-onslaught](https://github.com/echo-onslaught)ㅤ<br>
+        [@echo-onslaught](https://github.com/echo-onslaught)ㅤ
         $\color{#FFFFFF}{\textsf{(+ non-githubbers)}}$ㅤ<br>
-        $\color{#FFFFFF}{\textsf{hmu if you wanna be mentioned/have your link edited}}$ㅤ<br>
+        $\color{#868686}{\textsf{hmu if you wanna be mentioned/have your link edited}}$ㅤ<br>
         </p>
         ㅤ<br>
         <img src="https://files.catbox.moe/ds3k0h.png" width="350" height="~" alt="DIVIDER"><br>
