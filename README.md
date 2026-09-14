@@ -81,4 +81,4 @@
       </th>
     </table>
 <p align="right">
-<img src="https://files.catbox.moe/fhdzfd.png" width="~" height="385" alt="THE PAWN"></p>
+<img src="https://files.catbox.moe/ok62ub.png" width="~" height="385" alt="THE PAWN"></p>
