@@ -59,6 +59,7 @@
         $\color{#C70007}{\textsf{FRIENDS n' STUFFㅤ}}$<br>
         [@wilsonhiggsbury](https://github.com/wilsonhiggsbury)ㅤ
         [@echo-onslaught](https://github.com/echo-onslaught)ㅤ
+        [@call-the-d0ctor](https://github.com/call-the-d0ctor)ㅤ
         $\color{#FFFFFF}{\textsf{(+ non-githubbers)}}$ㅤ<br>
         $\color{#868686}{\textsf{hmu if you wanna be mentioned/have your link edited}}$ㅤ<br>
         </p>
