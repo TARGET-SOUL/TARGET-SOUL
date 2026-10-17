@@ -1,3 +1,13 @@
+<!---
+    * boo
+    * hello! if you're seeing this, you've forked my repository; feel free to help yourself out.
+      nonetheless, i'd like to ask you not to copy my exact layout or use any of the image files/graphics within my readme.
+      
+    * please STAR my repository if you take segments of my code or take any inspiration from it.
+
+    * other than that, have fun and a good rest of your whatever ;^)
+</!-->
+
 <img src="https://files.catbox.moe/84pq1j.png" width="~" height="~" alt="BANNER I"><br>
 
 ㅤ<table border="0" align="left">
