@@ -49,8 +49,9 @@
             <img src="https://files.catbox.moe/2n6ntz.png" width="50" height="~" alt="STAGE IV"><br>
         ㅤ<br>
         $\color{#FFFFFF}{\textsf{THANK YOU!}}$<br>
-        [@ponyhonors](https://github.com/ponyhonors)<br>
+        [@ponyhonors](https://github.com/ponyhonors)ㅤ
         [@THE-TEMPIST](https://github.com/THE-TEMPIST)<br>
+        $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
         $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
         $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
         ㅤ<br>
