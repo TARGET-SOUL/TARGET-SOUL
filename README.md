@@ -50,7 +50,7 @@
         ㅤ<br>
         $\color{#FFFFFF}{\textsf{THANK YOU!}}$<br>
         [@ponyhonors](https://github.com/ponyhonors)<br>
-        $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
+        [@THE-TEMPIST](https://github.com/THE-TEMPIST)<br>
         $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
         $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
         ㅤ<br>
