@@ -84,7 +84,7 @@
         [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI)ㅤ<br>
         ㅤ[@slimeccl](https://github.com/slimeccl)ㅤ
         [@gee-way](https://github.com/gee-way)ㅤ
-        [@xxXShadowl0rd420Xxx](https://github.com/xxXShadowl0rd420Xxx)<br>
+        [@THE-TEMPIST](https://github.com/THE-TEMPIST)<br>
         ㅤ[@sans-da-skeleton](https://github.com/sans-da-skeleton)ㅤ
         [@7-TRIALS](https://github.com/7-TRIALS)ㅤ
         [@ZOMBIELOVEJUICE](https://github.com/ZOMBIELOVEJUICE)<br>
