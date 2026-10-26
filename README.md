@@ -71,7 +71,8 @@
         [@MelodiesofTales](https://github.com/MelodiesofTales)ㅤ
         [@wilsonhiggsbury](https://github.com/wilsonhiggsbury)ㅤ
         [@echo-onslaught](https://github.com/echo-onslaught)ㅤ<br>
-        [@call-the-d0ctor](https://github.com/call-the-d0ctor)
+        [@call-the-d0ctor](https://github.com/call-the-d0ctor)ㅤ
+        [@inhumane-me](https://github.com/inhumane-me)
         $\color{#FFFFFF}{\textsf{(+ non-githubbers)}}$ㅤ<br>
         $\color{#868686}{\textsf{hmu if you wanna be mentioned/have your link edited}}$ㅤ<br>
         </p>
