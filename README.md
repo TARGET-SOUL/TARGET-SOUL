@@ -86,7 +86,7 @@
         [@NECRO-GUITAR](https://github.com/NECRO-GUITAR)ㅤ
         [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI)ㅤ<br>
         ㅤ[@slimeccl](https://github.com/slimeccl)ㅤ
-        [@gee-way](https://github.com/gee-way)ㅤ
+        [@SlGIL](https://github.com/SlGIL)ㅤ
         [@sans-da-skeleton](https://github.com/sans-da-skeleton)<br>
         ㅤ[@7-TRIALS](https://github.com/7-TRIALS)ㅤ
         [@ZOMBIELOVEJUICE](https://github.com/ZOMBIELOVEJUICE)ㅤ
